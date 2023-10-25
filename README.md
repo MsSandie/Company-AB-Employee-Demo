@@ -10,22 +10,23 @@ This is a Microsoft Excel project on the employee database of a fictional market
 
 ## Tasks
 
-- Employees who are freelancers earning salary above $10,0000 are highlighted 💰.
+- **Employees who are freelancers earning salary above $10,0000 are highlighted** 💰.
 
-![](Data1.jpg)
+![](Data1.png)
 
-- Employees full names are splited into first name and last name and duplicates are checked for.
+- **Employees full names are splited into first name and last name and duplicates are checked for.**
 
-![](Data2.jpg)
+![](Data2.png)
 
-- Highlights employees with "E" as initials and also highlights the highest earners in Green and the lowest earners in Red.
+- **Highlights employees with "E" as initials and also highlights the highest earners in Green and the lowest earners in Red.**
 
-![](Data3.jpg)
+![](Data3.png)
 
 # Conclusion and Recommendation
 
 Conclusion and recommendation of the above analysis can be carried out ideally if there is a problem statement. The availabilty of problem statements gives the freedom to make suggestion, opinions, and inference based on the result of the analysis.
 
-![](thank_you)
+![](thank_you.jpg)
+
 
 
