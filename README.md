@@ -26,7 +26,7 @@ This is a Microsoft Excel project on the employee database of a fictional market
 
 Conclusion and recommendation of the above analysis can be carried out ideally if there is a problem statement. The availabilty of problem statements gives the freedom to make suggestion, opinions, and inference based on the result of the analysis.
 
-![](thank_you.jpg)
+
 
 
 
